@@ -1,0 +1,1 @@
+Application works when arduimo is connected to COM3 port on the PC via USB
